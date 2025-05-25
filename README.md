@@ -51,8 +51,4 @@ A simple interactive C application using **OpenGL** and **GLUT** to visualize so
 - Event-driven programming with keyboard input
 - Hands-on experience with real-time animation in C
 
-## 📄 License
 
-This project is licensed under the MIT License - feel free to use and modify it!
-
----
