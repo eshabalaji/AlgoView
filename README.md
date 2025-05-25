@@ -21,7 +21,7 @@ A simple interactive C application using **OpenGL** and **GLUT** to visualize so
 | `r`    | Re-enter the array            |
 | `Esc`  | Exit the application          |
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used :
 
 - **C**
 - **OpenGL**
