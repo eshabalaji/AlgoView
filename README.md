@@ -42,7 +42,7 @@ A simple interactive C application using **OpenGL** and **GLUT** to visualize so
 
 ## 📸 Preview
 
-![Sorting Visualizer Screenshot](https://your-screenshot-link-here) *(Add screenshot if available)*
+![Sorting Visualizer Screenshot of Bubble Sort](<img width="269" alt="image" src="https://github.com/user-attachments/assets/7e5a4c28-6343-434f-8e19-8dbc002f07a6" />)
 
 ## 📚 Learning Outcomes
 
